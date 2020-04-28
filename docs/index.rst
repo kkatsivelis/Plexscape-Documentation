@@ -119,6 +119,7 @@ Table of Contents
 
 .. toctree::
 
+   kos
    options
    methods
    events
