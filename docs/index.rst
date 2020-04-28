@@ -125,4 +125,3 @@ Table of Contents
    events
    keyboard
    i18n
-   Wings Console - Assign a customer to subscription (1)
